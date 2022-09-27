@@ -1,10 +1,10 @@
-﻿// Задача 47
+﻿// // Задача 47
 
 // Console.WriteLine("введите количество строк");
-// int linesVol = Convert.ToInt32(Console.ReadLine());
+// int m = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("введите количество столбцов");
-// int columnsVol = Convert.ToInt32(Console.ReadLine());
-// double[,] numbers = new double[linesVol, columnsVol];
+// int n = Convert.ToInt32(Console.ReadLine());
+// double[,] numbers = new double[m, n];
 // FillArrayRandomNumbers(numbers);
 // PrintArray(numbers);
 
